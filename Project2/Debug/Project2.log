@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\hP\Desktop\New folder (6)\Project2\Project2\Source.cpp(9,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\hP\Desktop\New folder (6)\Project2\Project2\Source.cpp(67,18): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hP\Desktop\New folder (6)\Project2\Project2\Source.cpp(69,15): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\hP\Desktop\New folder (6)\Project2\Debug\Project2.exe
